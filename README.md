@@ -1,4 +1,3 @@
-I'll create a comprehensive documentation file for your Agile Increment Manager app. Here's the Markdown file:
 
 ```markdown
 # Agile Increment Manager (AIM) - Documentation
